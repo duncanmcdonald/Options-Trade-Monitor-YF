@@ -173,11 +173,6 @@ while True:
         #main loop end
 window.close()
         
-
-#test OCC's
-#TSLA201218C139
-#tsla201218p665
-
 #option_chain for ticker
 #calls/puts for ticker and date
     #contractSymbol
