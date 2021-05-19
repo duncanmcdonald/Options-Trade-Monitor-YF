@@ -1,6 +1,6 @@
 Options-Trade-Monitor-YF
 Options Trade Monitor For Yahoo Finance
-Duncan McDonld
+Duncan McDonald
 no copyright implied
 
 Yahoo Finance option tracking is not the best, so if the results
